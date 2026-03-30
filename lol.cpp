@@ -103,7 +103,7 @@ PURGE:
 }
 //BABBLE BABBLE BITCH BITCH REBLE REBLE PARTY PARTY SEX SEX AND DONT FORGET THE VIOLENCE
 int main() {
-    const char* spawns[] = {"server", "ping", "tester", "tool"};
+    const char* spawns[] = {"TheNorthFace", "move over buster", "lol", "bruh"};
     
     for (int i = 0; i < 4; ++i) {
         // isimlerle eşit thread (bigbrain (im uckin dumb))
