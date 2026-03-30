@@ -11,8 +11,8 @@
  * CPU İLE ÖNBELLEK YİNE KAVGA EDERSE İKİSİNİDE GÖTTEN SİKECEĞİM.
  */
 
-#define DIVINE_TARGET_IP "51.91.249.12" //Her seferinde editlemek yorucu ama ui yazmak daha yorucu
-#define SACRIFICIAL_PORT 27017 //default kullanmayan tüm serverları sikeyim
+#define DIVINE_TARGET_IP "1.1.1.1" //Her seferinde editlemek yorucu ama ui yazmak daha yorucu
+#define SACRIFICIAL_PORT 27015 //default kullanmayan tüm serverları sikeyim
 #define RAW_MAGIC 0xFFFFFFFF 
  
 // smells like "Marilyn Manson - Devour"
