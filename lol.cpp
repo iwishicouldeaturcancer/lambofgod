@@ -1,4 +1,3 @@
-//bundan sonra tüm kodları kod ahlakcılarına inat yazacağız
 #include <iostream>
 #include <cstring>
 #include <sys/socket.h>
